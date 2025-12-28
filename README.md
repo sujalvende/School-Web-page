@@ -5,10 +5,10 @@ We are making school web page design with proffestional backend design. It solve
 
 ---
 ### Team Members
-1.Aryan Jadhav - Frontend + Backend + Animations(GSAP) + Database
-2.Sujal Vende - Frontend + UI/UX 
-3.Vikas@91 - Frontend + UI/UX + Responsiveness
-4.Viraj Chavan - Frontend + Backend + Database
+1. Aryan Jadhav - Frontend + Backend + Animations(GSAP) + Database
+2. Sujal Vende - Frontend + UI/UX 
+3. Vikas@91 - Frontend + UI/UX + Responsiveness
+4. Viraj Chavan - Frontend + Backend + Database
 ---
 
 ## Problem Statemenet
